@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "flexlayout",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/layoutBox/FlexLayout",
+      "state" : {
+        "branch" : "master",
+        "revision" : "e1fc7159b10c4b00979e5302d3b1bcf3a3e75820"
+      }
+    }
+  ],
+  "version" : 2
+}
